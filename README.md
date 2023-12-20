@@ -13,7 +13,7 @@ Ensure the following pre-requisities are installed on your machine before contin
 - npm
 
 ## Build the Project
-Follow the steps below to install dependencies, build, and run the project your preferred shell.
+Follow the steps below to install dependencies, build, and run the project in your preferred shell.
 
 1. `npm i`
 2. `npm run dev`
