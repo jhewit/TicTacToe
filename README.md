@@ -1,5 +1,7 @@
-# TicTacToe
+# Tic-Tac-Toe
 Traditional game of Tic-Tac-Toe played directly in a web browser. This project was developed using React libraries and Vite.
+
+<img src="tic-tac-toe.png" alt="drawing" width="400"/>
 
 ## Features
 - Editable player names
